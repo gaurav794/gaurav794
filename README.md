@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Gaurav Sharma</h1>
-<h3 align="center">Being passionate and excited about technologies since I was in grade five, I believe that learning is lifelong, and I should pursue what makes me happy.</h3>
+<h3 align="center">Being passionate and excited about technologies since grade five, I believe that learning is lifelong, and I should pursue what makes me happy.</h3>
 
 - 🔭 I’m actively seeking full-time position in **IT industry.**
 
